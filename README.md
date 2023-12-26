@@ -47,6 +47,7 @@ Auto WebServer is a convenient tool designed to assist developers in setting up 
 <br />
   
 </div>
+
 ---
 
 ## Supported Systems
@@ -93,15 +94,15 @@ If you have a contribution in mind, please check out our [Contribution Guide](ht
 
 If you want to say thank you and/or support active development of Auto WebServer:
 
-- Add a GitHub Star to the project!
-- Tweet about the project on your Twitter!
-  - Tag [Dev Rahman](https://twitter.com/devrahmanbd) and/or `#autowebserver`
+Add a GitHub Star to the project!
+Tweet about the project on your Twitter!
+Tag [Dev Rahman](https://twitter.com/devrahmanbd) and/or `#autowebserver`
   
 Thanks so much for your interest in growing the reach of Auto WebServer!
 
 # ⚠️ License
 
-Auto WebServer is free and open-source software licensed under the [Your License Name] License. All designs were created by [Dev Rahman](https://github.com/devrahmanbd) and distributed under GPL license (CC BY-SA 4.0 International).
+Auto WebServer is free and open-source software licensed under the [Your License Name] License. All designs were created by [Dev Rahman](https://github.com/devrahmanbd) and distributed under GPL license.
 
 <br />
 
