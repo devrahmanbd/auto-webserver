@@ -102,7 +102,7 @@ Thanks so much for your interest in growing the reach of Auto WebServer!
 
 # ⚠️ License
 
-Auto WebServer is free and open-source software licensed under the [Your License Name] License. All designs were created by [Dev Rahman](https://github.com/devrahmanbd) and distributed under GPL license.
+Auto WebServer is free and open-source software licensed under the [Your License Name] License. All designs were created by [Dev Rahman](https://github.com/devrahmanbd) and distributed under GNU General Public License (GPL) version 3.0.
 
 <br />
 
