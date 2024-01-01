@@ -78,9 +78,9 @@ DocumentRoot "/srv/http/example.com"
 
 DirectoryIndex index.php
 
-<Files ".ht*">
-    Require all denied
-</Files>
+<FilesMatch ".+\.php$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
 
 ErrorLog "/var/log/httpd/error_log"
 LogLevel warn
